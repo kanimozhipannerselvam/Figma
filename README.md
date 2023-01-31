@@ -145,8 +145,11 @@ background: url(Logo.png);
 ```
 
 ## OUTPUT:
+
 ![home page](https://user-images.githubusercontent.com/119476060/215287807-f0f9e82b-e7c9-4fcf-abab-1a8b4f72a223.png)
+
 ![logoin](https://user-images.githubusercontent.com/119476060/215287815-8e0cbf08-4b05-47c2-89fd-7df36b3dbd64.png)
+
 ![hompagw2](https://user-images.githubusercontent.com/119476060/215287825-f455e99d-beb3-4e47-b91f-fca525fc21e2.png)
 
 
